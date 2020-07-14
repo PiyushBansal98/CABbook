@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/classes" path="src/main/resources">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/test-classes" path="src/test/resources">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="TestData"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Piyush/Desktop/client-combined-3.141.59.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Piyush/Desktop/client-combined-3.141.59-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Piyush/Desktop/libs/byte-buddy-1.8.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Piyush/Desktop/libs/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Piyush/Desktop/libs/guava-25.0-jre.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Piyush/Desktop/libs/okhttp-3.11.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Piyush/Desktop/libs/okio-1.14.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Piyush/Desktop/sele/commons-io-2.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Piyush/Desktop/sele/sil/cglib-nodep-3.2.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Piyush/Desktop/sele/sil/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Piyush/Desktop/sele/sil/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Piyush/Desktop/sele/sil/commons-io-2.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Piyush/Desktop/sele/sil/commons-lang3-3.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Piyush/Desktop/sele/sil/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Piyush/Desktop/sele/sil/cssparser-0.9.22.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Piyush/Desktop/sele/sil/gson-2.8.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Piyush/Desktop/sele/sil/guava-21.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Piyush/Desktop/sele/sil/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Piyush/Desktop/sele/sil/htmlunit-2.26.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Piyush/Desktop/sele/sil/htmlunit-core-js-2.26.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Piyush/Desktop/sele/sil/htmlunit-driver-2.26.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Piyush/Desktop/sele/sil/httpclient-4.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Piyush/Desktop/sele/sil/httpcore-4.4.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Piyush/Desktop/sele/sil/httpmime-4.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Piyush/Desktop/sele/sil/javax.servlet-api-3.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Piyush/Desktop/sele/sil/jetty-client-9.4.3.v20170317.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Piyush/Desktop/sele/sil/jetty-http-9.4.3.v20170317.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Piyush/Desktop/sele/sil/jetty-io-9.4.1.v20170120.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Piyush/Desktop/sele/sil/jetty-util-9.4.1.v20170120.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Piyush/Desktop/sele/sil/jna-4.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Piyush/Desktop/sele/sil/jna-platform-4.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Piyush/Desktop/sele/sil/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Piyush/Desktop/sele/sil/neko-htmlunit-2.25.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Piyush/Desktop/sele/sil/phantomjsdriver-1.4.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Piyush/Desktop/sele/sil/sac-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Piyush/Desktop/sele/sil/selenium-api-3.4.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Piyush/Desktop/sele/sil/selenium-chrome-driver-3.4.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Piyush/Desktop/sele/sil/selenium-edge-driver-3.4.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Piyush/Desktop/sele/sil/selenium-firefox-driver-3.4.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Piyush/Desktop/sele/sil/selenium-ie-driver-3.4.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Piyush/Desktop/sele/sil/selenium-java-3.4.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Piyush/Desktop/sele/sil/selenium-opera-driver-3.4.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Piyush/Desktop/sele/sil/selenium-remote-driver-3.4.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Piyush/Desktop/sele/sil/selenium-safari-driver-3.4.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Piyush/Desktop/sele/sil/selenium-support-3.4.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Piyush/Desktop/sele/sil/serializer-2.7.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Piyush/Desktop/sele/sil/websocket-api-9.4.3.v20170317.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Piyush/Desktop/sele/sil/websocket-client-9.4.3.v20170317.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Piyush/Desktop/sele/sil/websocket-common-9.4.3.v20170317.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Piyush/Desktop/sele/sil/xalan-2.7.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Piyush/Desktop/sele/sil/xercesImpl-2.11.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Piyush/Desktop/sele/sil/xml-apis-1.4.01.jar"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/Piyush/Desktop/hamcrest-all-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Piyush/Desktop/junit-3.8.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Piyush/Desktop/webdriver-common-0.9.7089.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Piyush/Desktop/webdriver-support-0.9.7089.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
